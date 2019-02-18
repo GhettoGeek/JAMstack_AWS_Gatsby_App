@@ -1,0 +1,2 @@
+# JAMstack_AWS_Gatsby_App
+This is a blog application that uses JAMstack featuring tools such as Gatsby for (static site generation); GraphQL, AWS Amplify and AWS Cognito (to set up authentication); AWS AppSync (to create powerful APIs that will let you do all sorts of amazing things with your apps;  AWS Amplify Console (to build and deploy the app), and making it available to the world using AWS’s global CDN, Amazon CloudFront.
